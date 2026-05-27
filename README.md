@@ -79,9 +79,9 @@ Open your browser and go to `http://localhost:5000`
 
 | Metric | Value |
 |--------|-------|
-| Species Classification Accuracy | _Add your accuracy here_ |
-| Mass Prediction Error (MAE) | _Add your MAE here_ |
-| Length Estimation Accuracy | _Add your result here_ |
+| Overall Accuracy | _96.8%_ |
+| Precision (Macro)  | _ 96.7%_ |
+| Recall (Macro) | _96.8%_ |
 
 ---
 
